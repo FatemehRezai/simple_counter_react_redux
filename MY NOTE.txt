@@ -1,6 +1,0 @@
-﻿include:
-
-creat-react-app
-yarn add react-router-dom
-yarn add node-sass
-yarn add redux react-redux
